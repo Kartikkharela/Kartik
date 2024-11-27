@@ -1,7 +1,8 @@
 <html>
-This is my first Git Repository
- </html>
-<html>
-  Kartik kharela 
+<h1>
+ this is my website 
+</h1>
+<body>
+ Kartik Kharela from Churu
+</body>
 </html>
-
